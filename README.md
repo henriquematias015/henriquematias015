@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Mateus
 - 👀 I'm interested in programming
-- 🌱 I’m currently learning CSS
+- 🌱 At the moment I'm learning
+Personal Development
 
 <!---
 henriquematias015/henriquematias015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
