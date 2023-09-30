@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://media.licdn.com/dms/image/D4D16AQGMEg8a4Ff0cQ/profile-displaybackgroundimage-shrink_350_1400/0/1688757500661?e=1701302400&v=beta&t=Yvlvuw8zhwr0pgqJFE2AkHPz1hTFRysJIqmPbHXBGvg" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">❤️ I am a developing and very promising programmer</p>&nbsp;
